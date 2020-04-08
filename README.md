@@ -1,4 +1,6 @@
 # 2d_mot
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hqaamo/2d_mot/master)
+
 The 2D Mot design of our SoPa experiment for the moment. We use it for Na and K.
 
 # Documentation
